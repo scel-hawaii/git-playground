@@ -1,3 +1,6 @@
 This repository is a playground for learning Git! Feel free to mess around with this 
 repository all you want, but leave `README.md` intact.
-b
+
+## Authors
+
+* Kenny Luong
