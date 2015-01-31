@@ -4,3 +4,6 @@ repository all you want, but leave `README.md` intact.
 ## Authors
 
 * Kenny Luong
+
+* Zachary Dorman
+
