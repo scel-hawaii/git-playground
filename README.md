@@ -8,3 +8,6 @@ repository all you want, but leave `README.md` intact.
 * Zachary Dorman
 
 * Ryan MK Walser
+
+
+* kenny likes chicken 
