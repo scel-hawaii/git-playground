@@ -7,3 +7,4 @@ repository all you want, but leave `README.md` intact.
 
 * Zachary Dorman
 
+* Ryan Walser
