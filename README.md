@@ -9,5 +9,6 @@ repository all you want, but leave `README.md` intact.
 
 * Ryan MK Walser
 
+* Christie Obatake
 
 * kenny likes chicken 
