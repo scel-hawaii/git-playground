@@ -11,4 +11,6 @@ repository all you want, but leave `README.md` intact.
 
 * Christie Obatake
 
-* kenny likes chicken 
+* kenny likes chicken
+
+* Michele Shimoda 
