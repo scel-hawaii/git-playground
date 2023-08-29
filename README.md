@@ -14,3 +14,5 @@ repository all you want, but leave `README.md` intact.
 * kenny likes chicken
 
 * Michele Shimoda 
+
+* Cristian
